@@ -74,4 +74,3 @@ Intrusion detection is a multifaceted and constantly evolving domain. This scrip
 
 Users are urged to carefully evaluate the ethical implications of deploying intrusion detection systems, including potential privacy concerns, data security, and responsible data handling practices.
 
-**It is imperative to seek guidance from qualified cybersecurity experts and conduct thorough due diligence before implementing any intrusion detection system in a live environment.**
